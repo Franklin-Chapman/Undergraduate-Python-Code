@@ -1,4 +1,4 @@
-# Undergraduate-Python-Code
+# Undergraduate-Python/MATLAB-Code
 
 This repository consists of relevant Python programs that Franklin Chapman made during his undergraduate course work.  An explanation of the functionality of purpose of each program in this repository is to follow in this file.  
 
