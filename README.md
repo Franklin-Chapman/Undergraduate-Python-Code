@@ -26,3 +26,7 @@ This program fits decaying harmonic data from a torsion balance used to re-creat
 8. torsion balance fit method 2 python code
 A slightly different version of the above program used for the same experiment. 
 
+9. MATLAB files
+These files were part of the final project in Math 3341 (Scientific Computing).
+
+
